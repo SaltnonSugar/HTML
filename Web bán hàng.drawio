@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T03:17:50.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ka-p9c9uXXqOVGsYLhGL" version="20.0.3" type="github">
-  <diagram id="8Fs_FLiEZlD4C6DPn1sS" name="Page-2">
-    <mxGraphModel dx="1447" dy="750" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#9AC7BF" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-06-28T07:16:22.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eDgPkF4uK3s8C5USbvh3" version="20.0.3" type="github">
+  <diagram id="8Fs_FLiEZlD4C6DPn1sS" name="DemoDB - Web bán hàng">
+    <mxGraphModel dx="1578" dy="818" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#9AC7BF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
